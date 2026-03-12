@@ -18,6 +18,3 @@ export function getErrorMessage(err, fallback = "Something went wrong") {
     fallback
   );
 }
-
-
-c
